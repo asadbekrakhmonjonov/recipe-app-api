@@ -26,4 +26,4 @@ class CommandTests(SimpleTestCase):
         patched_check.assert_called_with(databases=['default'])
 
 
-# Ensure to add a newline at the end of the file.
+
