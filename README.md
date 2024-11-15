@@ -1,7 +1,8 @@
 # Recipe App API
 
-This project is a RESTful API built using Django and Django REST Framework for managing recipes, ingredients, and tags. It includes user authentication and authorization, allowing users to create, update, delete, and retrieve recipes, as well as upload images for each recipe.
+- This project is a RESTful API built using Django and Django REST Framework for managing recipes, ingredients, and tags. It includes user authentication and authorization, allowing users to create, update, delete, and retrieve recipes, as well as upload images for each recipe.
 
+  
 ![Screenshot 2024-11-15 190140](https://github.com/user-attachments/assets/ff2fd922-7762-4f0b-9e1d-2c51903395ab)
 
 ## Features
